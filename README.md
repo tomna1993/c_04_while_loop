@@ -3,7 +3,7 @@ c_05_While_loop
 
 ## DESCRIPTION
 
-This program demonstrates the usage of a while loop. The while loop loops through a block of code 
+This program demonstrates the usage of the while loop. The while loop loops through a block of code 
 until the specified condition is `true`. As the `i` value increase to 3, the condition will be `false` and
 the code will exit from the loop. 
 
