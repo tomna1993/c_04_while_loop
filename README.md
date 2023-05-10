@@ -1,11 +1,10 @@
-c_05_While_loop
-========================
+# c_05_While_loop
 
 ## DESCRIPTION
 
-This program demonstrates the usage of the while loop. The while loop loops through a block of code 
+This program demonstrates the usage of the while loop. The while loop loops through a block of code  
 until the specified condition is `true`. As the `i` value increase to 3, the condition will be `false` and
-the code will exit from the loop. 
+the code will exit from the loop.
 
 ## INSTALL LIBRARIES
 
@@ -13,14 +12,14 @@ The source code uses the cs50 library what you can download [HERE](https://githu
 
 To install the cs50 library follow the steps:
 
-1. Open git bash terminal and change the current working directory to `src`:   
-  	> cd ./libsc50/src
+1. Open git bash terminal and change the current working directory to `src`:  
+   > cd ./libsc50/src
 
 2. Compile the cs50.c source into .o with:
-	> gcc -c cs50.c -o cs50.o
+   > gcc -c cs50.c -o cs50.o
 
 3. Make the library archive:  
-  	> ar rcs libcs50.a cs50.o
+   > ar rcs libcs50.a cs50.o
 
 4. Copy the `libcs50.a` file into your compiler's `lib` directory
 
